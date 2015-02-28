@@ -4,4 +4,4 @@
   [ ] investigate draft in the office
   [ ] wrinkle cream
   [ ] another item
-  [ ] for my new branch
+  [ ] for my modified branch
