@@ -2,6 +2,5 @@
   [ ] make battle station fully operational
   [ ] lightning hands??
   [ ] investigate draft in the office
-  [ ] wrinkle cream
-  [ ] another item
-  [ ] for my new branch 2
+  [ ] an item for version3
+  [ ] another item for version3
